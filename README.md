@@ -51,8 +51,7 @@ The application follows a modular architecture:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd end-to-end-project
+   git clone https://github.com/Lokesh-2310/end-to-end-flipkart-rag-system.git
    ```
 
 2. **Create and activate virtual environment**:
